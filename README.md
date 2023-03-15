@@ -1,16 +1,13 @@
-### Hi there 👋
+###   HELLO I'M JIM BUG.
 
-<!--
-**jim-bug/jim-bug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello everyone, I'm Ignazio Sperandeo but you can also call me jim bug
+and I'm 16 years old. I'm studing python language and I'm learing cpp for school coding.
+I make also project with Arduino and I like to do The maker.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+TECHNOLOGIES:
+
+
+[![My Skills](https://skillicons.dev/icons?i=py&perline=3)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=c&perline=3)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=cpp&perline=3)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=linux&perline=3)](https://skillicons.dev)
