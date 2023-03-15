@@ -7,7 +7,7 @@ I make also project with Arduino and I like to do The maker.
 
 
 
-TECHNOLOGIES:
+KNOWLEDGE:
 
 
 [![My Skills](https://skillicons.dev/icons?i=py&perline=3)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=c&perline=3)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=cpp&perline=3)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=linux&perline=3)](https://skillicons.dev)
