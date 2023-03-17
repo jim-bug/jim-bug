@@ -10,4 +10,10 @@ I make also project with Arduino and I like to do The maker.
 KNOWLEDGE:
 
 
-[![My Skills](https://skillicons.dev/icons?i=py&perline=3)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=c&perline=3)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=cpp&perline=3)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=linux&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py&perline=3)](https://skillicons.dev)   [![My Skills](https://skillicons.dev/icons?i=c&perline=3)](https://skillicons.dev)    [![My Skills](https://skillicons.dev/icons?i=cpp&perline=3)](https://skillicons.dev)   [![My Skills](https://skillicons.dev/icons?i=linux&perline=3)](https://skillicons.dev)    [![My Skills](https://skillicons.dev/icons?i=arduino&perline=3)](https://skillicons.dev)
+
+
+INTERESTS:
+
+
+[![My Skills](https://skillicons.dev/icons?i=raspberrypi&perline=3)](https://skillicons.dev)    [![My Skills](https://skillicons.dev/icons?i=git&perline=3)](https://skillicons.dev)    [![My Skills](https://skillicons.dev/icons?i=aiscript&perline=3)](https://skillicons.dev)
