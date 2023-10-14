@@ -1,4 +1,4 @@
-<h1> Hello everyone </h1>
+mi<h1> Hello everyone </h1>
 <p>I am Ignazio Leonardo Calogero Sperandeo, I'm from Italy and I'm 16 years old. <br>
 I am studing theoretical computer science and python language. I make project with arduino(as hobby) and I like to do maker.
 </p>
@@ -11,4 +11,4 @@ I am studing theoretical computer science and python language. I make project wi
 
 <h2>My skill: </h2>
 
-[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,arduino,linux,cmd, java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,arduino,linux,cmd,java)](https://skillicons.dev)
