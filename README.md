@@ -11,4 +11,4 @@ I am studing theoretical computer science and python language. I make project wi
 
 <h2>My skill: </h2>
 
-[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,arduino,linux,cmd,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,java,arduino,linux,cmd)](https://skillicons.dev)
