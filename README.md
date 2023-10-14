@@ -1,4 +1,4 @@
-mi<h1> Hello everyone </h1>
+<h1> Hello everyone </h1>
 <p>I am Ignazio Leonardo Calogero Sperandeo, I'm from Italy and I'm 16 years old. <br>
 I am studing theoretical computer science and python language. I make project with arduino(as hobby) and I like to do maker.
 </p>
