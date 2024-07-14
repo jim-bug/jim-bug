@@ -32,12 +32,12 @@
 
 <br>
 
--  🌐 [CalcIp](https://github.com/jim-bug/calcip.com)
+-  🌐 [CalcIp](https://github.com/jim-bug/calcip)
 
--  💻 [Multiple-Chat](https://github.com/jim-bug/Multiple-Chat.com)
+-  💻 [Multiple-Chat](https://github.com/jim-bug/Multiple-Chat)
 
--  📦 [Beatiful-Chat](https://github.com/jim-bug/Beautiful-Chat.com)
+-  📦 [Beatiful-Chat](https://github.com/jim-bug/Beautiful-Chat)
 
--  🔌 [Particoular Power Strip](https://github.com/jim-bug/PPS.com)
+-  🔌 [Particoular Power Strip](https://github.com/jim-bug/PPS)
 
 </br>
