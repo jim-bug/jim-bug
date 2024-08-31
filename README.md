@@ -2,6 +2,7 @@
     
 <p> Hello everyone, I'm Ignazio Leonardo Calogero Sperandeo and I'm 17 years old. Currently I'm studying computer science and python language. In particoular I like: </p>
 <br>
+
 - 🌐 Network Programming
   
 
