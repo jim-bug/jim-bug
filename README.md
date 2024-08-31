@@ -1,8 +1,7 @@
-# <div align="center"><br> Hello, I'm jim_bug :) </br></div>
+# <div align="center"><br> Hello, I'm jim_bug // :) </br></div>
     
 <p> Hello everyone, I'm Ignazio Leonardo Calogero Sperandeo and I'm 17 years old. Currently I'm studying computer science and python language. In particoular I like: </p>
 <br>
-
 - 🌐 Network Programming
   
 
