@@ -1,6 +1,6 @@
 # <div align="center"><br> Hello, I'm jim_bug // :) </br></div>
     
-<p> Hello everyone, I'm Ignazio Leonardo Calogero Sperandeo and I'm 17 years old. Currently I'm studying computer science and python language. In particoular I like: </p>
+<p> Hello everyone, I'm Ignazio Leonardo Calogero Sperandeo and I'm 17 years old. Currently I'm studying computer science and python language. In particular I like: </p>
 <br>
 
 - 🌐 Network Programming
@@ -39,6 +39,6 @@
 
 -  📦 [Beatiful-Chat](https://github.com/jim-bug/Beautiful-Chat)
 
--  🔌 [Particoular Power Strip, see new version!](https://github.com/jim-bug/PPS)
+-  🔌 [Particular Power Strip, see new version!](https://github.com/jim-bug/PPS)
 
 </br>
