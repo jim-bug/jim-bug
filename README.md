@@ -4,10 +4,8 @@
 <br>
 
 - 🌐 Network Programming
-  
 
 - ⚙️ Operating System (OS) 🐧
-  
 
 - 🛠️ Microcontrollers
 
@@ -21,8 +19,9 @@
 
 # <h2>Tech Stack: </h2>
 
-[![My Skills](https://skillicons.dev/icons?i=python,c,java,js,arduino,linux,bash)](https://skillicons.dev)
-
+[![](https://skillicons.dev/icons?i=python,c,java,php)](https://skillicons.dev)  
+[![](https://skillicons.dev/icons?i=js,arduino,linux,bash)](https://skillicons.dev)  
+[![](https://skillicons.dev/icons?i=mysql,git)](https://skillicons.dev)  
 
 # <h2> Look at some of my projects: </h2>
 <br>
