@@ -1,11 +1,13 @@
-# <div align="center"><br> Hello, I'm jim_bug // :) </br></div>
+# <div align="center"><br> Hello, I'm jim-bug // :) </br></div>
     
-<p> Hello everyone, I'm Ignazio Leonardo Calogero Sperandeo and I'm 18 years old. Currently I'm studying computer science and python language. In particular I like: </p>
+<p> Hello everyone, I'm Ignazio Leonardo Calogero Sperandeo and I'm 18 years old. Currently I'm studying computer science and python language. I recently landed in the world of cybersecurity specifically in jeopardy-type CTF (Capture The Flag) resolution, showing a great interest in the field. In particular I like: </p>
 <br>
 
 - 🌐 Network Programming
 
 - ⚙️ Operating System (OS) 🐧
+
+- 🫆 CyberSecurity 🚩
 
 - 🛠️ Microcontrollers
 
