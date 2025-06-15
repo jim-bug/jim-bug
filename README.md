@@ -11,7 +11,6 @@
 
 - 🛠️ Microcontrollers
 
- 
 <br/>
 
 # <h2>My badges </h2>
