@@ -19,6 +19,7 @@
 [![IT Essentials](https://images.credly.com/size/340x100/images/04e8034c-81f5-4f7f-ab23-e8b428c31ce9/ITE.png)]([https://www.credly.com/badges/9c24a925-9e60-428f-a8fa-1f4572c8c41f/public_url) 
 [![CCNA v7 ITN](https://images.credly.com/size/340x100/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png)]([https://www.credly.com/earner/earned/badge/86fcdc36-afd2-478d-95cc-1d4e7f724a1b])
 [![CCNA v7 SRWE](https://images.credly.com/size/340x100/images/f4ccdba9-dd65-4349-baad-8f05df116443/CCNASRWE__1_.png)]([https://www.credly.com/earner/earned/badge/73360a0c-c9da-40e2-a7fe-a7e2a7e236b7])
+[![CCNA v7 ENSA](https://images.credly.com/size/340x100/images/0a6d331e-8abf-4272-a949-33f754569a76/CCNAENSA__1_.png)]([https://www.credly.com/earner/earned/share/ec31d57a-f6bb-4ecb-a90a-7824fc59dba9])
 [![JSE](https://images.credly.com/size/340x100/images/b93bf373-3da6-4ada-9879-a0c39d6a11f8/image.png)]([https://www.credly.com/earner/earned/badge/9eb1d289-a095-46aa-8ec7-f46a920783a3]) 
 [![PCAP 31-03](https://images.credly.com/size/340x100/images/4e248e82-9e87-4a63-9263-250fafe5fb1f/image.png)]([https://www.credly.com/earner/earned/badge/f7186799-93e7-42f3-85ef-996e4240d9bf])
 
