@@ -27,10 +27,7 @@
 
 # <h2>Tech Stack: </h2>
 
-[![](https://skillicons.dev/icons?i=python,c,java,php)](https://skillicons.dev)  
-[![](https://skillicons.dev/icons?i=js,linux,bash,mysql)](https://skillicons.dev)  
-[![](https://skillicons.dev/icons?i=git,github,cloudflare,arduino)](https://skillicons.dev)
-[![](https://skillicons.dev/icons?i=rasperrypi)](https://skillicons.dev) 
+[![](https://skillicons.dev/icons?i=python,c,java,php,js,linux,bash,mysql,git,github,cloudflare,docker,arduino,raspberrypi&perline=4)](https://skillicons.dev)  
 
 # <h2> Look at some of my projects: </h2>
 <br>
