@@ -1,4 +1,4 @@
-# <div align="center"><br> Hello, I'm jim-bug // :) </br></div>
+# <div align="center"><br> Hello, I'm jimbug // :) </br></div>
     
 <p> Hello everyone, I'm Ignazio Leonardo Calogero Sperandeo and I'm 18 years old. Currently I'm studying computer science and python language. I recently landed in the world of cybersecurity specifically in jeopardy-type CTF (Capture The Flag) resolution, showing a great interest in the field. In particular I like: </p>
 <br>
@@ -28,8 +28,9 @@
 # <h2>Tech Stack: </h2>
 
 [![](https://skillicons.dev/icons?i=python,c,java,php)](https://skillicons.dev)  
-[![](https://skillicons.dev/icons?i=js,arduino,linux,bash)](https://skillicons.dev)  
-[![](https://skillicons.dev/icons?i=mysql,git)](https://skillicons.dev)  
+[![](https://skillicons.dev/icons?i=js,linux,bash,mysql)](https://skillicons.dev)  
+[![](https://skillicons.dev/icons?i=git,github,cloudflare,arduino)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=rasperrypi)](https://skillicons.dev) 
 
 # <h2> Look at some of my projects: </h2>
 <br>
