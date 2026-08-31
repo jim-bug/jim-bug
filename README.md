@@ -64,7 +64,7 @@ In the long run, I aim to work where **cybersecurity meets national security** �
 
 - 🌐 [**CalcIp**](https://github.com/jim-bug/calcip) — IP address / subnet calculator
 - 💻 [**Multiple-Chat**](https://github.com/jim-bug/Multiple-Chat) — multi-client chat application
-- 📦 [**Beautiful-Chat**](https://github.com/jim-bug/Beautiful-Chat) — a chat app with a nicer interface
+- :swimmer: [**Pool-Pomp-Control**](https://github.com/jim-bug/Pool-Pomp-Control) — IoT system for remote automation of a pool pump.
 - 🔌 [**Particular Power Strip (PPS)**](https://github.com/jim-bug/PPS) — smart power strip project · *new version available!*
 
 ---
