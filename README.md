@@ -29,7 +29,7 @@ In the long run, I aim to work where **cybersecurity meets national security** â
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=python,c,java,php,js,linux,bash,mysql,git,github,cloudflare,docker,arduino,raspberrypi,swift&perline=8&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,c,java,php,js,linux,bash,mysql,git,github,cloudflare,docker,arduino,raspberrypi,swift,latex&perline=8&theme=dark)](https://skillicons.dev)
 
 </div>
 
