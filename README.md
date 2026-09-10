@@ -10,11 +10,11 @@
 
 I'm **Ignazio**, a 19-year-old **Computer Engineering** student from Italy 🇮🇹, focused on **CyberSecurity** and on understanding how systems work, where they fail, and how to protect them.
 
-Most of my work lives at the intersection of **networking, IoT, and security**, where I design projects and experiments and share them openly here as they take shape. Beyond building, I take part in several technical communities — mathematics, computer science, IoT, and security — where thoughtful discussion and problem-solving keep my skills sharp.
+Most of my work lives at the intersection of **networking, IoT, and security**, where I design projects and experiments and share them openly here as they take shape. Beyond building, I take part in several technical communities, mathematics, computer science, IoT, and security, where thoughtful discussion and problem-solving keep my skills sharp.
 
-I'm drawn to **CTF** challenges and currently preparing for the **Cisco CCNA** to strengthen my networking foundations. I'm also increasingly interested in the intersection of **Artificial Intelligence and security** — both how AI can reinforce defense and how it reshapes the threat landscape.
+I'm drawn to **CTF** challenges and currently preparing for the **Cisco CCNA** to strengthen my networking foundations. I'm also increasingly interested in the intersection of **Artificial Intelligence and security**, both how AI can reinforce defense and how it reshapes the threat landscape.
 
-In the long run, I aim to work where **cybersecurity meets national security** — safeguarding critical systems and infrastructure, and developing a genuine command of both its defensive and offensive dimensions.
+In the long run, I aim to work where **cybersecurity meets national security**, safeguarding critical systems and infrastructure, and developing a genuine command of both its defensive and offensive dimensions.
 
 **What I'm into:**
 
@@ -71,7 +71,7 @@ In the long run, I aim to work where **cybersecurity meets national security** �
 
 ## 📚 Learning & Coursework
 
-The code behind my studies — from my earliest school days to my current university work:
+The code behind my studies, from my earliest school days to my current university work:
 
 - 🎓 [**school-coding**](https://github.com/jim-bug/school-coding) — exercises and projects from my school years
 - 🏛️ [**uni-programming**](https://github.com/jim-bug/uni-programming) — my ongoing university programming coursework
@@ -80,7 +80,7 @@ The code behind my studies — from my earliest school days to my current univer
 
 ## 🔗 Connect With Me
 
-Always open to new challenges and connections — feel free to reach out.
+Always open to new challenges and connections, feel free to reach out.
 
 <div align="center">
 
