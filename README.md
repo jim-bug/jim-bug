@@ -73,8 +73,8 @@ In the long run, I aim to work where **cybersecurity meets national security**, 
 
 The code behind my studies, from my earliest school days to my current university work:
 
-- 🎓 [**school-coding**](https://github.com/jim-bug/school-coding) — exercises and projects from my school years
-- 🏛️ [**uni-programming**](https://github.com/jim-bug/uni-programming) — my ongoing university programming coursework
+- 🎓 [**school-coding**](https://github.com/jim-bug/school-coding), exercises and projects from my school years
+- 🏛️ [**uni-programming**](https://github.com/jim-bug/uni-programming), my ongoing university programming coursework
 
 ---
 
