@@ -41,18 +41,20 @@ In the long run, I aim to work where **cybersecurity meets national security**, 
 
 **🐍 Python**
 
-[![Python Essentials 1](https://images.credly.com/size/340x100/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png)](https://www.credly.com/badges/d5c81272-ece6-4ac0-8c71-b2dd02c1c80f/public_url)
-[![Python Essentials 2](https://images.credly.com/size/340x100/images/3f802526-7274-4230-91ab-f6d1a35340e6/image.png)](https://www.credly.com/badges/1c53bec0-c4e0-4617-b8a3-6dad704ab5da/public_url)
-[![PCAP 31-03](https://images.credly.com/size/340x100/images/4e248e82-9e87-4a63-9263-250fafe5fb1f/image.png)](https://www.credly.com/earner/earned/badge/f7186799-93e7-42f3-85ef-996e4240d9bf)
+<a href="https://www.credly.com/badges/d5c81272-ece6-4ac0-8c71-b2dd02c1c80f/public_url"><img src="https://images.credly.com/size/140x100/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" alt="Python Essentials 1" width="140"></a>
+<a href="https://www.credly.com/badges/1c53bec0-c4e0-4617-b8a3-6dad704ab5da/public_url"><img src="https://images.credly.com/size/140x100/images/3f802526-7274-4230-91ab-f6d1a35340e6/image.png" alt="Python Essentials 2" width="140"></a>
+<a href="https://www.credly.com/earner/earned/badge/f7186799-93e7-42f3-85ef-996e4240d9bf"><img src="https://images.credly.com/size/140x100/images/4e248e82-9e87-4a63-9263-250fafe5fb1f/image.png" alt="PCAP 31-03" width="140"></a>
+
+<br>
 
 **🌐 Networking & IT**
 
-[![IT Essentials](https://images.credly.com/size/340x100/images/04e8034c-81f5-4f7f-ab23-e8b428c31ce9/ITE.png)](https://www.credly.com/badges/9c24a925-9e60-428f-a8fa-1f4572c8c41f/public_url)
-[![CCNA v7 ITN](https://images.credly.com/size/340x100/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png)](https://www.credly.com/earner/earned/badge/86fcdc36-afd2-478d-95cc-1d4e7f724a1b)
-[![CCNA v7 SRWE](https://images.credly.com/size/340x100/images/f4ccdba9-dd65-4349-baad-8f05df116443/CCNASRWE__1_.png)](https://www.credly.com/earner/earned/badge/73360a0c-c9da-40e2-a7fe-a7e2a7e236b7)
-[![CCNA v7 ENSA](https://images.credly.com/size/340x100/images/0a6d331e-8abf-4272-a949-33f754569a76/CCNAENSA__1_.png)](https://www.credly.com/earner/earned/share/ec31d57a-f6bb-4ecb-a90a-7824fc59dba9)
+<a href="https://www.credly.com/badges/9c24a925-9e60-428f-a8fa-1f4572c8c41f/public_url"><img src="https://images.credly.com/size/140x100/images/04e8034c-81f5-4f7f-ab23-e8b428c31ce9/ITE.png" alt="IT Essentials" width="140"></a>
+<a href="https://www.credly.com/earner/earned/badge/86fcdc36-afd2-478d-95cc-1d4e7f724a1b"><img src="https://images.credly.com/size/140x100/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" alt="CCNA v7 ITN" width="140"></a>
+<a href="https://www.credly.com/earner/earned/badge/73360a0c-c9da-40e2-a7fe-a7e2a7e236b7"><img src="https://images.credly.com/size/140x100/images/f4ccdba9-dd65-4349-baad-8f05df116443/CCNASRWE__1_.png" alt="CCNA v7 SRWE" width="140"></a>
+<a href="https://www.credly.com/earner/earned/share/ec31d57a-f6bb-4ecb-a90a-7824fc59dba9"><img src="https://images.credly.com/size/140x100/images/0a6d331e-8abf-4272-a949-33f754569a76/CCNAENSA__1_.png" alt="CCNA v7 ENSA" width="140"></a>
 
-<br>
+<br><br>
 
 [![Credly](https://img.shields.io/badge/View%20all%20on%20Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/ignazio-leonardo-calogero-sperandeo.7e74424a)
 
